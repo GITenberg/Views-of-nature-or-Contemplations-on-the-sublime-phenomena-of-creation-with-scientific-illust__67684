@@ -1,0 +1,63 @@
+_repo: Views-of-nature-or-Contemplations-on-the-sublime-phenomena-of-creation-with-scientific-illust__67684
+_version: 0.0.1
+alternative_title: Ansichten der Natur. English
+contributor:
+  translators:
+  - agent_name: Bohn, Henry G. (Henry George)
+    aliases:
+    - Bohn, H. G. (Henry George)
+    - Bohn, Henry George
+    birthdate: 1796
+    deathdate: 1884
+    gutenberg_agent_id: '41839'
+    url: http://www.gutenberg.org/2009/agents/41839
+    wikipedia: https://en.wikipedia.org/wiki/Henry_George_Bohn
+  - agent_name: Otté, E. C. (Elise C.)
+    aliases:
+    - Otté, Elise C.
+    - Otté, E.C.
+    - Otte, E. C. (Elise C.)
+    birthdate: 1818
+    deathdate: 1903
+    gutenberg_agent_id: '39452'
+    url: http://www.gutenberg.org/2009/agents/39452
+    wikipedia: https://en.wikipedia.org/wiki/Elise_Ott%C3%A9
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Von Humboldt, Alexander
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexander_von_Humboldt
+    - https://de.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_issued: '2022-03-22'
+identifiers:
+  gutenberg: '67684'
+  lccn: '07012450'
+language: en
+pgterms:marc904: https://archive.org/details/ofnatureviewsorc00humbrich
+pgterms:marc905: 20200713111121vonhumbold
+pgterms:marc906: '1850'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :H.G. Bohn,1850.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Description and travel'
+- !lcc 'Q'
+- !lcsh 'Science'
+- !lcsh 'Physical geography'
+- !lcsh 'Plant morphology'
+- GITenberg
+title: "Views of nature: or Contemplations on the sublime phenomena of creation\r\n\
+  with scientific illustrations"
+url: http://www.gutenberg.org/ebooks/67684
