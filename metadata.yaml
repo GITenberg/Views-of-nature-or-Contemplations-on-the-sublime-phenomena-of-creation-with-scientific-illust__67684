@@ -22,6 +22,9 @@ contributor:
     gutenberg_agent_id: '39452'
     url: http://www.gutenberg.org/2009/agents/39452
     wikipedia: https://en.wikipedia.org/wiki/Elise_Ott%C3%A9
+covers:
+- cover_type: archival
+  image_path: 67684-h/images/cover.jpg
 creator:
   author:
     agent_name: Humboldt, Alexander von
@@ -36,6 +39,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexander_von_Humboldt
     - https://de.wikipedia.org/wiki/Alexander_von_Humboldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67684#Views-of-nature-or-Contemplations-on-the-sublime-phenomena-of-creation-with-scientific-illust_
 gutenberg_issued: '2022-03-22'
 identifiers:
   gutenberg: '67684'
